@@ -65,7 +65,7 @@ h1{
 
 /* Image Container */
 .image-container{
-	max-width: 700px;
+	max-width: 900px;
 	margin: 80px auto;
 	box-sizing: border-box;
 	overflow: hidden;
@@ -89,6 +89,7 @@ h1{
 
 /* Display of Download link */
 .downloadLink{
+	display: none;
 	border: none;
 	font-family: 'Bebas Neue', cursive;
 	font-size: 1.2rem;
