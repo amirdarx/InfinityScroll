@@ -89,7 +89,6 @@ h1{
 
 /* Display of Download link */
 .downloadLink{
-	display: none;
 	border: none;
 	font-family: 'Bebas Neue', cursive;
 	font-size: 1.2rem;
